@@ -1,4 +1,4 @@
 # File-1
-This is my first project.
-NAME : Shruti Wandhe
-USN : IT25053
+This is my first project. <br>
+NAME : Shruti Wandhe <br>
+USN : IT25053<br>
